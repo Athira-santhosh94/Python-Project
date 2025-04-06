@@ -27,7 +27,13 @@ The dataset contains employee information such as age, salary, team, position, a
 * The age group with the highest representation indicates the company’s workforce majority.
 * Teams and positions with the highest salary expenses are identified.
 * Visual analysis explores whether there is a correlation between age and salary.
-* 
+## Requirements
+- Python 
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
 ## Screenshots of Visualizations
 1. ![Team Distribution Graph](https://github.com/Athira-santhosh94/Python-Project/blob/main/Distribution%20across%20teams.jpg)
 2. ![Employee distribution by position](https://github.com/Athira-santhosh94/Python-Project/blob/main/Employee%20count%20by%20position.jpg)
